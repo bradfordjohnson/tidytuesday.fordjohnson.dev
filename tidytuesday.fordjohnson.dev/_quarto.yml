@@ -10,7 +10,7 @@ website:
   site-url: https://tidytuesday.fordjohnson.dev
   open-graph: true
   search: false
-  favicon: https://cdn.jsdelivr.net/gh/bradfordjohnson/global-assets@master/images/logo/logo.png
+  favicon: "_components/favicon.png"
 
   navbar:
     background: white
