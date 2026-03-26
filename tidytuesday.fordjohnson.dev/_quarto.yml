@@ -11,6 +11,9 @@ website:
   open-graph: true
   search: false
   favicon: "_components/favicon.png"
+  
+  google-analytics:
+    tracking-id: "GTM-PF2MWQN4"
 
   navbar:
     background: white
@@ -34,8 +37,8 @@ website:
 
 format:
   html:
-    include-in-header: ga4/gtm_header.html
-    include-before-body: ga4/gtm_body.html
+    #include-in-header: ga4/gtm_header.html
+    #include-before-body: ga4/gtm_body.html
     anchor-sections: false
     theme: styles.scss
     toc: true
